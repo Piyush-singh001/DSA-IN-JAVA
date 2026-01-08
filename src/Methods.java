@@ -10,9 +10,6 @@ public class Methods {
         PrintHello(name , 20);
 
     }
-
-
-
         static void PrintHello(String name , int age){
             System.out.println("Hello! "+name+ " you are " +age+
                     " years old");
